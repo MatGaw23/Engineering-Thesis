@@ -1,0 +1,3 @@
+cli.c:21:6:cli_init	8	static
+cli.c:26:6:cli_send_string	24	static,ignoring_inline_asm
+cli.c:45:6:cli_process	16	static
